@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love sports and play handball
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Skyrorax Spotify Playing" width="350" />](https://open.spotify.com/user/c6z0mgj0fsloubo4na7gp4dc6)
 
 ### Languages and Tools:
 
