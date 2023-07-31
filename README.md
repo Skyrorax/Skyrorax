@@ -4,7 +4,7 @@
 ## I'm a Student, Developer, and Teacher!
 
 - 🔭 I’m currently working on automation projects with Python 🐍!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and play handball
